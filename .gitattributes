@@ -1,10 +1,2 @@
-# Ignore node_modules directory
-bin/
-
-# Ignore logs
-logs/
-*.log
-
-# Ignore temporary files
-temp/
-*.tmp
+# Auto detect text files and perform LF normalization
+* text=auto
