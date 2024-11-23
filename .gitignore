@@ -8,3 +8,4 @@ logs/
 # Ignore temporary files
 temp/
 *.tmp
+*.class
