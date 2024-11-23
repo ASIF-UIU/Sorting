@@ -5,6 +5,8 @@ public class QuickSort {
 
         int n = sc.nextInt();
 
+        System.out.println(n);
+
         sc.close(); 
     }
 }
